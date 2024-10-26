@@ -1,4 +1,4 @@
-<img align="center" alt="coding image" width="1000" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" >
+<img align="center" alt="coding image" width="1000" height="300" src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?w=1200">
 <h1 align="center">Hi 👋, I'm Ganeshwaran Sarujanan</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
